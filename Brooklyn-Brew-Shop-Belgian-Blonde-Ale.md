@@ -1,5 +1,7 @@
 # Brooklyn Brew Shop Belgian Blonde Ale
 
+SOP translation of the instructions at [http://brooklynbrewshop.com/directions/Brooklyn_Brew_Shop_Bruxelles_Blonde_Instructions.pdf](http://brooklynbrewshop.com/directions/Brooklyn_Brew_Shop_Bruxelles_Blonde_Instructions.pdf)
+
 ## MATERIALS
 
 - [ ] 1 bucket
@@ -13,6 +15,16 @@
 - [ ] Water
 - [ ] Thermometer
 
+`POT 1` = smallest pot
+
+`POT 2` = medium pot
+
+`POT 3` = largest pot
+
+## Tips
+
+- Make sure it's clear just how much 1 gallon is in the fermenter, and if not find out and mark it with a Sharpie.
+
 
 ## BREW DAY & JUST AFTER
 
@@ -25,25 +37,25 @@
 
 ### Brewing
 
-- [ ] Heat 2qt water to 160° in POT 1
-- [ ] Add grain to POT 1 and mix to consistency of oatmeal and add water if too dry or hot (MASHING IN)
+- [ ] Heat 2qt water to 160° in `POT 1`
+- [ ] Add grain to `POT 1` and mix to consistency of oatmeal and add water if too dry or hot (MASHING IN)
 - [ ] Cook for 60 minutes, keep between 144° and 152° (don't need to heat constantly) taking temperature from multiple locations in pot; stir every 10 minutes
-- [ ] Heat POT 1 to 170° while stirring constantly (MASHING OUT)
-- [ ] Heat 4qt water to 170° in POT 2
-- [ ] Put strainer over POT 3 (currently empty)
-- [ ] Pour mash from POT 1 into strainer over POT 3
-- [ ] Pour water from POT 2 into strainer over POT 3
-- [ ] Move strainer with mash over POT 2, pour liquid from POT 3 through strainer into POT 1
-- [ ] Remove strainer from POT 2
+- [ ] Heat `POT 1` to 170° while stirring constantly (MASHING OUT)
+- [ ] Heat 4qt water to 170° in `POT 2`
+- [ ] Put strainer over `POT 3` (currently empty)
+- [ ] Pour mash from `POT 1` into strainer over `POT 3`
+- [ ] Pour water from `POT 2` into strainer over `POT 3`
+- [ ] Move strainer with mash over `POT 2`, pour liquid from `POT 3` through strainer into `POT 1`
+- [ ] Remove strainer from `POT 2`
 - [ ] Discard mash from strainer
-- [ ] Heat POT 2 to light boil until "hot break" is hit (begins to foam) and make sure it doesn’t boil over
+- [ ] Heat `POT 2` to light boil until "hot break" is hit (begins to foam) and make sure it doesn’t boil over
 - [ ] Pour hops into a small bowl so splitting it up later will be easier
 - [ ] Lightly boil for 60 minutes, stirring occasionally. During boil:
-- [ ]   - AT START OF BOIL: add 1/3 of the hopsh
-- [ ]   - Clean and sanitize strainer (will be used again later)
-- [ ]   - 30 MINUTE INTO BOIL: add 1/3 of the hops
+	- [ ] AT START OF BOIL: add 1/3 of the hopsh
+	- [ ] Clean and sanitize strainer (will be used again later)
+	- [ ] 30 MINUTE INTO BOIL: add 1/3 of the hops
 - [ ]   - 45 MINUTES INTO BOIL: add remainder of hops
-- [ ] At 60 minutes, turn off heat and cool POT 2 to 70°
+- [ ] At 60 minutes, turn off heat and cool `POT 2` to 70°
 - [ ] Funnel beer into glass jug through strainer (to help aerate). If less than 1 gallon, add water to make 1 gallon
 - [ ] Add entire packet of yeast (PITCH)
 - [ ] Sanitize hands, place hand over opening in glass job, and shake aggressively (will wakeup yeast and further aerate the wort)
